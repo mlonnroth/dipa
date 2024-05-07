@@ -13,3 +13,8 @@ hur tidbokningar kan hämtas per anställd via enkel JDBC.
     public String dbURL = "jdbc:mariadb://localhost:3306/pas";
     public String dbUser = "maglo5";
     public String dbPass = "";
+
+För att installera:
+1) Installera MariaDB, OpenJDK, Maven, git
+2) Fork/clone den här modulen och installera lokalt med git clone
+3) Öppna med MS Code
