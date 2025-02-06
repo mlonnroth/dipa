@@ -1,4 +1,4 @@
-drop table POSITION;
+/* drop table POSITION;
 drop table STATUS;
 drop table BESOK_LOG;
 drop table BESOK;
@@ -26,7 +26,7 @@ drop table RUM_TYP;
 drop table PERSONAL_TYP;
 drop table ENHET;
 drop table PLATS;
-drop sequence idseq;
+drop sequence idseq; */
 
 create sequence idseq;
 

@@ -10,8 +10,8 @@ public class Context {
     public boolean isConnected = false;
     public Connection db;
     public String dbDriver = "org.mariadb.jdbc.Driver";
-    public String dbURL = "jdbc:mariadb://localhost:3306/pas";
-    public String dbUser = "maglo5";
+    public String dbURL = "jdbc:mariadb://localhost:3306/vgr";
+    public String dbUser = "magnus";
     public String dbPass = "";
 
     public Context (String[] args) {
